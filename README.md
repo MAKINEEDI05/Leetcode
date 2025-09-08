@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |

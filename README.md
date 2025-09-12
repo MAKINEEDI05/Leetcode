@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/MAKINEEDI05/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/MAKINEEDI05/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

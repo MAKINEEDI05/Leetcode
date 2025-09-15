@@ -54,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MAKINEEDI05/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MAKINEEDI05/Leetcode/tree/master/0041-first-missing-positive) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser

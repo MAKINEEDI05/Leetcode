@@ -23,6 +23,7 @@
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -31,6 +32,7 @@
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
@@ -80,10 +82,12 @@
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +138,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

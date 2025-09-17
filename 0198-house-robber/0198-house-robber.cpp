@@ -18,6 +18,6 @@ public:
             nums[i]+=max(A[i],A[i+1]);
             A.push_back(nums[i]);
         }
-        return max(nums[n-1],nums[n-2]);
+        return max(A[n+2],A[n+1]);
     }
 };

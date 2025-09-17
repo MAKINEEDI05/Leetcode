@@ -13,8 +13,11 @@ public:
     }
     int rob(vector<int>& nums) {
         int a=0,i=0,n=nums.size();
-        vector<int> A(n,-1);
-        a=fun(0,A,nums,n);
-        return a;
+        vector<int> A(3,0);
+        for(i=0;i<n;i++){
+            nums[i]+=max(A[i],A[i+1]);
+            A.push_back(nums[i]);
+        }
+        return max(nums[n-1],nums[n-2]);
     }
 };

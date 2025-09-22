@@ -31,6 +31,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -71,6 +72,7 @@
 | [0041-first-missing-positive](https://github.com/MAKINEEDI05/Leetcode/tree/master/0041-first-missing-positive) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -141,6 +143,7 @@
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |

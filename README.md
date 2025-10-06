@@ -27,6 +27,7 @@
 | [0213-house-robber-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -66,6 +67,7 @@
 | [0054-spiral-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,4 +181,20 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->

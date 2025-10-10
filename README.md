@@ -37,6 +37,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -201,4 +202,8 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->

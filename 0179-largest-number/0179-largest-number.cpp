@@ -9,7 +9,11 @@ public:
             A.push_back(AA);
         }
         AA="";
-        sort(A.begin(),A.end(), [](string A,string B){return A+B>B+A;});
+        sort(A.begin(),A.end(), []
+        (string A,string B)
+        {
+            return A+B>B+A;
+        });
         if(A[0]=="0"){
             return "0";
         }

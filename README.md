@@ -30,6 +30,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -61,6 +62,7 @@
 | [0016-3sum-closest](https://github.com/MAKINEEDI05/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -83,6 +85,7 @@
 | [0037-sudoku-solver](https://github.com/MAKINEEDI05/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MAKINEEDI05/Leetcode/tree/master/0041-first-missing-positive) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -131,6 +134,7 @@
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

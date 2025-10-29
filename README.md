@@ -55,6 +55,7 @@
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/MAKINEEDI05/Leetcode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -119,6 +120,7 @@
 | ------- |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |

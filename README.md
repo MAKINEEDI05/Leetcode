@@ -40,6 +40,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -67,6 +68,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
+| [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
@@ -169,6 +171,7 @@
 | [0045-jump-game-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
+| [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |

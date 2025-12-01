@@ -27,6 +27,7 @@
 | [0198-house-robber](https://github.com/MAKINEEDI05/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0485-max-consecutive-ones](https://github.com/MAKINEEDI05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |

@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/MAKINEEDI05/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/MAKINEEDI05/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -128,6 +130,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |

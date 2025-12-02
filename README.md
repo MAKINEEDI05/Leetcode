@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/MAKINEEDI05/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/MAKINEEDI05/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -183,6 +184,7 @@
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/MAKINEEDI05/Leetcode/tree/master/1603-design-parking-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/MAKINEEDI05/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

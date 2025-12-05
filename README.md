@@ -36,6 +36,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -123,6 +124,7 @@
 | [0657-robot-return-to-origin](https://github.com/MAKINEEDI05/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1103-distribute-candies-to-people](https://github.com/MAKINEEDI05/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
 | [1603-design-parking-system](https://github.com/MAKINEEDI05/Leetcode/tree/master/1603-design-parking-system) |

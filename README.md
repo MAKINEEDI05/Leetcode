@@ -60,6 +60,7 @@
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0415-add-strings) |
 | [0640-solve-the-equation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0640-solve-the-equation) |
+| [1006-clumsy-factorial](https://github.com/MAKINEEDI05/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1103-distribute-candies-to-people](https://github.com/MAKINEEDI05/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -125,6 +126,7 @@
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1006-clumsy-factorial](https://github.com/MAKINEEDI05/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1103-distribute-candies-to-people](https://github.com/MAKINEEDI05/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
 | [1603-design-parking-system](https://github.com/MAKINEEDI05/Leetcode/tree/master/1603-design-parking-system) |
@@ -272,6 +274,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
+| [1006-clumsy-factorial](https://github.com/MAKINEEDI05/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MAKINEEDI05/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |

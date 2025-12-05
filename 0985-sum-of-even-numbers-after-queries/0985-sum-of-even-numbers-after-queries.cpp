@@ -8,7 +8,6 @@ public:
                 a+=nums[i];
             }
         }
-        cout << a;
         for(i=0;i<m;i++){
             int val=0,ind=0;
             val=queries[i][0];

@@ -51,6 +51,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -71,6 +72,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/MAKINEEDI05/Leetcode/tree/master/3830-find-closest-person) |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
 | ------- |

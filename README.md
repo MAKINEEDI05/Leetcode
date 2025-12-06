@@ -35,6 +35,7 @@
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/MAKINEEDI05/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -101,6 +102,7 @@
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/MAKINEEDI05/Leetcode/tree/master/0289-game-of-life) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -128,6 +130,7 @@
 | [0657-robot-return-to-origin](https://github.com/MAKINEEDI05/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/MAKINEEDI05/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1006-clumsy-factorial](https://github.com/MAKINEEDI05/Leetcode/tree/master/1006-clumsy-factorial) |
@@ -162,6 +165,7 @@
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
@@ -171,6 +175,7 @@
 | [0015-3sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MAKINEEDI05/Leetcode/tree/master/0016-3sum-closest) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |

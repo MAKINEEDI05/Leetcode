@@ -294,4 +294,12 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MAKINEEDI05/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

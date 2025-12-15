@@ -114,6 +114,7 @@
 | [0036-valid-sudoku](https://github.com/MAKINEEDI05/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MAKINEEDI05/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MAKINEEDI05/Leetcode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -176,6 +177,7 @@
 | [0011-container-with-most-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MAKINEEDI05/Leetcode/tree/master/0016-3sum-closest) |
+| [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -297,6 +299,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion

@@ -65,6 +65,7 @@
 | [0640-solve-the-equation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0640-solve-the-equation) |
 | [1006-clumsy-factorial](https://github.com/MAKINEEDI05/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1103-distribute-candies-to-people](https://github.com/MAKINEEDI05/Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MAKINEEDI05/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MAKINEEDI05/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -302,6 +303,7 @@
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MAKINEEDI05/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |

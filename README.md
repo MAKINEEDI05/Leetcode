@@ -40,6 +40,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MAKINEEDI05/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -107,6 +108,7 @@
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -263,6 +265,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Breadth-First Search
 |  |

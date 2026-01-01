@@ -21,6 +21,7 @@
 | [0059-spiral-matrix-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/MAKINEEDI05/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0120-triangle) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MAKINEEDI05/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0415-add-strings) |

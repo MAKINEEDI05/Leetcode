@@ -38,6 +38,7 @@
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/MAKINEEDI05/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
@@ -122,6 +123,7 @@
 | [0041-first-missing-positive](https://github.com/MAKINEEDI05/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MAKINEEDI05/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |

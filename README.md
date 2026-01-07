@@ -206,6 +206,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3798-largest-even-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |

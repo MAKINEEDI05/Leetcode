@@ -178,6 +178,7 @@
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |

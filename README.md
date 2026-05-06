@@ -154,6 +154,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MAKINEEDI05/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MAKINEEDI05/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3336-water-bottles-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Backtracking
 |  |
@@ -209,6 +210,7 @@
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MAKINEEDI05/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3798-largest-even-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

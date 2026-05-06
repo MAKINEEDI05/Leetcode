@@ -54,6 +54,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MAKINEEDI05/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3169-count-days-without-meetings](https://github.com/MAKINEEDI05/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -97,6 +98,7 @@
 | [1200-minimum-absolute-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3169-count-days-without-meetings](https://github.com/MAKINEEDI05/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |

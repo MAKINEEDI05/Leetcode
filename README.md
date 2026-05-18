@@ -29,6 +29,7 @@
 | [0198-house-robber](https://github.com/MAKINEEDI05/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/MAKINEEDI05/Leetcode/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/MAKINEEDI05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/MAKINEEDI05/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -198,6 +200,7 @@
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |

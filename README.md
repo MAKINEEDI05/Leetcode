@@ -192,6 +192,7 @@
 | [0011-container-with-most-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MAKINEEDI05/Leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -320,6 +321,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MAKINEEDI05/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0143-reorder-list) |

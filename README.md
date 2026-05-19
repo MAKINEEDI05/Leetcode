@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/MAKINEEDI05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/MAKINEEDI05/Leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/MAKINEEDI05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/MAKINEEDI05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
@@ -267,6 +268,7 @@
 | [0152-maximum-product-subarray](https://github.com/MAKINEEDI05/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MAKINEEDI05/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/MAKINEEDI05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MAKINEEDI05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |

@@ -30,6 +30,7 @@
 | [0152-maximum-product-subarray](https://github.com/MAKINEEDI05/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/MAKINEEDI05/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MAKINEEDI05/Leetcode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@
 | [0059-spiral-matrix-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/MAKINEEDI05/Leetcode/tree/master/0289-game-of-life) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |
@@ -302,6 +304,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Tree
@@ -332,6 +335,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -401,4 +405,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

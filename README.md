@@ -69,6 +69,7 @@
 | [0066-plus-one](https://github.com/MAKINEEDI05/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0415-add-strings) |
 | [0640-solve-the-equation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0640-solve-the-equation) |
@@ -241,6 +242,7 @@
 | [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/MAKINEEDI05/Leetcode/tree/master/0198-house-robber) |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAKINEEDI05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

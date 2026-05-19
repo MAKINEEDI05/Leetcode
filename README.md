@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MAKINEEDI05/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
@@ -307,6 +309,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration

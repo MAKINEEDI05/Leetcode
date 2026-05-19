@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MAKINEEDI05/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MAKINEEDI05/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
@@ -102,6 +103,7 @@
 | [0015-3sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MAKINEEDI05/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MAKINEEDI05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MAKINEEDI05/Leetcode/tree/master/0242-valid-anagram) |
@@ -137,6 +139,7 @@
 | [0036-valid-sudoku](https://github.com/MAKINEEDI05/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MAKINEEDI05/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MAKINEEDI05/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/MAKINEEDI05/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/MAKINEEDI05/Leetcode/tree/master/0217-contains-duplicate) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAKINEEDI05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/MAKINEEDI05/Leetcode/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |

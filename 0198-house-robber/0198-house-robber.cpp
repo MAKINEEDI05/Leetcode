@@ -1,16 +1,18 @@
 class Solution {
 public:
-    int fun(vector<int>& nums,vector<int>& A,int i,int n){
-        if(i>=n) return 0;
-        if(A[i]!=-1) return A[i];
-        int left=nums[i]+fun(nums,A,i+2,n);
-        int right=fun(nums,A,i+1,n);
-        A[i]=max(left,right);
-        return A[i];
-    }
     int rob(vector<int>& nums) {
-        int a=0,n=nums.size();
-        vector<int> A(n,-1);
-        return fun(nums,A,0,n);
+        int a=0,b=0,i=0,n=nums.size();
+        if(n<=2){
+            return (n==1)?nums[0]:max(nums[0],nums[1]);
+        }
+        for(i=0;i<n;i++){
+            a=0;
+            b=0;
+            if(i-2>=0) a=nums[i-2];
+            if(i-3>=0) b=nums[i-3];
+            nums[i]+=max(a,b);
+        }
+        a=max(nums[n-1],nums[i-2]);
+        return a;
     }
 };

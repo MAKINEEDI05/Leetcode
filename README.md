@@ -41,6 +41,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/MAKINEEDI05/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/MAKINEEDI05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/MAKINEEDI05/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
@@ -118,6 +119,7 @@
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MAKINEEDI05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MAKINEEDI05/Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/MAKINEEDI05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/MAKINEEDI05/Leetcode/tree/master/0853-car-fleet) |
 | [1200-minimum-absolute-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -288,6 +290,7 @@
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/MAKINEEDI05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -300,6 +303,7 @@
 | [0045-jump-game-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/MAKINEEDI05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |

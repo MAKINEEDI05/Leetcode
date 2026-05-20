@@ -310,11 +310,13 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -323,6 +325,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Combinatorics

@@ -47,6 +47,7 @@
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MAKINEEDI05/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MAKINEEDI05/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -372,6 +373,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MAKINEEDI05/Leetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/MAKINEEDI05/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/MAKINEEDI05/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MAKINEEDI05/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -425,4 +427,5 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MAKINEEDI05/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

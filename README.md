@@ -28,6 +28,7 @@
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MAKINEEDI05/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/MAKINEEDI05/Leetcode/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0415-add-strings) |
 | [0640-solve-the-equation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0640-solve-the-equation) |
@@ -367,6 +369,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/MAKINEEDI05/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MAKINEEDI05/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/MAKINEEDI05/Leetcode/tree/master/0946-validate-stack-sequences) |

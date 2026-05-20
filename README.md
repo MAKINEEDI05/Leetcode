@@ -310,12 +310,14 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -325,6 +327,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -352,6 +355,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/MAKINEEDI05/Leetcode/tree/master/0695-max-area-of-island) |

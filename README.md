@@ -89,6 +89,7 @@
 | [0069-sqrtx](https://github.com/MAKINEEDI05/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MAKINEEDI05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0415-add-strings) |
 | [0640-solve-the-equation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0640-solve-the-equation) |
@@ -160,6 +161,7 @@
 | [0049-group-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/MAKINEEDI05/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MAKINEEDI05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MAKINEEDI05/Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/MAKINEEDI05/Leetcode/tree/master/0645-set-mismatch) |
@@ -236,6 +238,7 @@
 | [0141-linked-list-cycle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MAKINEEDI05/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/MAKINEEDI05/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0832-flipping-an-image](https://github.com/MAKINEEDI05/Leetcode/tree/master/0832-flipping-an-image) |

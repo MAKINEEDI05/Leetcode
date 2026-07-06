@@ -58,6 +58,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MAKINEEDI05/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAKINEEDI05/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1046-last-stone-weight](https://github.com/MAKINEEDI05/Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1324-print-words-vertically](https://github.com/MAKINEEDI05/Leetcode/tree/master/1324-print-words-vertically) |
@@ -390,6 +391,7 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/MAKINEEDI05/Leetcode/tree/master/1046-last-stone-weight) |
 ## Prefix Sum
 |  |
 | ------- |

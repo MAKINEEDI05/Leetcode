@@ -111,6 +111,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MAKINEEDI05/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MAKINEEDI05/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/MAKINEEDI05/Leetcode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |

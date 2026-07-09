@@ -26,6 +26,7 @@
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MAKINEEDI05/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MAKINEEDI05/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MAKINEEDI05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -144,6 +145,7 @@
 | [0059-spiral-matrix-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MAKINEEDI05/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/MAKINEEDI05/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/MAKINEEDI05/Leetcode/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/MAKINEEDI05/Leetcode/tree/master/0695-max-area-of-island) |
@@ -214,6 +216,7 @@
 | [0052-n-queens-ii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MAKINEEDI05/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MAKINEEDI05/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MAKINEEDI05/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/MAKINEEDI05/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MAKINEEDI05/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -256,6 +259,7 @@
 | [0022-generate-parentheses](https://github.com/MAKINEEDI05/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MAKINEEDI05/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/MAKINEEDI05/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MAKINEEDI05/Leetcode/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/MAKINEEDI05/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/MAKINEEDI05/Leetcode/tree/master/0179-largest-number) |
@@ -337,6 +341,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MAKINEEDI05/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MAKINEEDI05/Leetcode/tree/master/0199-binary-tree-right-side-view) |

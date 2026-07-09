@@ -78,6 +78,7 @@
 | [3321-type-of-triangle](https://github.com/MAKINEEDI05/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MAKINEEDI05/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MAKINEEDI05/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MAKINEEDI05/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/MAKINEEDI05/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MAKINEEDI05/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -172,6 +173,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MAKINEEDI05/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2107-find-unique-binary-string](https://github.com/MAKINEEDI05/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MAKINEEDI05/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MAKINEEDI05/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MAKINEEDI05/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -374,6 +376,7 @@
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAKINEEDI05/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MAKINEEDI05/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MAKINEEDI05/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,6 +464,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/MAKINEEDI05/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MAKINEEDI05/Leetcode/tree/master/0695-max-area-of-island) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MAKINEEDI05/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -475,4 +479,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MAKINEEDI05/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

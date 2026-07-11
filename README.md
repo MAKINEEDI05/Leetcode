@@ -340,6 +340,7 @@
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [0572-subtree-of-another-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/MAKINEEDI05/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [0257-binary-tree-paths](https://github.com/MAKINEEDI05/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -397,6 +400,7 @@
 | [0322-coin-change](https://github.com/MAKINEEDI05/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/MAKINEEDI05/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/MAKINEEDI05/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MAKINEEDI05/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
